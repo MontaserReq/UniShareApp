@@ -12,7 +12,7 @@ export default function Page() {
       </SignedIn>
       <SignedOut>
         <Link href="/sign-in">
-          <Text>Sign In</Text>
+          <Text>Sign Jowa</Text>
         </Link>
         <Link href="/sign-up">
           <Text>Sign Up</Text>
